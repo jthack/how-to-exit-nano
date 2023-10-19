@@ -46,3 +46,17 @@ Unplug your computer.
 
 ## The Noob Way
 Switch to Vim and then try to figure out how to exit that instead (good luck!).
+
+## The DeLorean Deception Way
+Dave Kennedy (@hackingdave) takes his DeLorean up to 88 mph and travels back in time to disrupt the vim movement. All future versions of Linux will only be distrubted with nano. You're all now one of us!
+**__Edited with the greatest terminal text editor in existance and your new benevolant overlord KING NANO!!!!__**
+
+```bash
+
+# Write file
+ctrl + o 
+
+# Exit Nano
+ctrl + never
+
+```
