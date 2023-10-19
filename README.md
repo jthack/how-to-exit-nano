@@ -2,6 +2,8 @@
 
 Welcome to the ultimate guide on exiting Nano, just in case you ever find a system where the ultimate text editor (vim) isn't installed and you have to use the inferior nano.
 
+<img src='nano.png' width='300'>
+
 ## The Standard Way
 Just press "Ctrl + X". 
 
