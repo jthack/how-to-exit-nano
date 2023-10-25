@@ -50,7 +50,7 @@ Switch to Vim and then try to figure out how to exit that instead (good luck!).
 ## The Future-proof Way
 Credit: [@krayon](https://github.com/krayon)
 1. Use Standard Way (or equivalent - see above)
-2. Use on of the following system appropriate solutions
+2. Use one of the following system appropriate solutions
 
 #### For `apt` based (Debian/Ubuntu) systems
 1. `apt-get purge --auto-remove nano`
