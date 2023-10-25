@@ -52,8 +52,8 @@ Credit: [@krayon](https://github.com/krayon)
 1. Use Standard Way (or equivalent - see above)
 2. Use on of the following system appropriate solutions
 
-### For `apt` based (Debian/Ubuntu) systems
+#### For `apt` based (Debian/Ubuntu) systems
 1. `apt-get purge --auto-remove nano`
 
-### The `rpm` based (RedHat/CentOS) systems
+#### The `rpm` based (RedHat/CentOS) systems
 1. `rpm -e --allmatches --nodeps nano`
