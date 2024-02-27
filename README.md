@@ -35,6 +35,15 @@ type nano inside nano?
 now unplug the charger?    
 and use hammer 😬   
 
+## The Collaborative Way
+1. Install JDK, JRE, JVM, Maven, Gradle, and IntelliJ IDEA (use Community Edition if you don't have a license). ☕
+2. Make sure you installed Java instead of NodeJS. ⚠️
+3. Add the dependency [Log4j](https://logging.apache.org/log4j/2.x/security.html) with a version that has the [Log4shell](https://en.wikipedia.org/wiki/File:Log4Shell_logo.png) feature enabled. 📦
+4. Start your Log4shell. 🐚
+5. Wait until a seasoned hacker connects because the person definitely knows how to exit Nano. 🧑‍💻
+6. Be friends with the person. 🫂
+7. Ask the person to exit Nano for you. ✔️
+
 ## The Overkill Way
 Quit using computers altogether because clearly Nano is not for real hackers.
 
